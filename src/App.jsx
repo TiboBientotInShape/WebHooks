@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <h1>🚀 Webhook Demo App</h1>
-      <p><strong>Version 2.1.0</strong></p>
+      <p><strong>Version 3.0.0</strong></p>
       
       <hr />
       
