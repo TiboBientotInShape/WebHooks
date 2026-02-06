@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <header className="header">
         <h1>🚀 Webhook Demo App</h1>
-        <p className="version">Version 1.2.0 - Auto-deployed!</p>
+        <p className="version">Version 1.3.0 - Live deploy test!</p>
       </header>
       
       <main className="main">
